@@ -2,7 +2,7 @@
 
 A **responsive, static website** showcasing the services and features of a dental clinic — built with **HTML, CSS, and images** and deployed on **GitHub Pages**.
 
-🔗 **Live Demo:** [https://raghu356-dot.github.io/dental-clinic/](https://raghu356-dot.github.io/dental-clinic/)
+
 
 ---
 
